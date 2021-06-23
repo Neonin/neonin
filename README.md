@@ -16,6 +16,6 @@ A former <b>SEO specialist</b> who became a front-end dev just to show the forme
 
 📈 My GitHub Stats
 <p>
-<img align="" height="150px" src="https://github-readme-stats.vercel.app/api?username=Alex1994131&sshow_icons=true&theme=gotham&count_private=true">
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alex1994131&layout=compact&theme=monokai&count_private=true">
+<img align="" height="150px" src="https://github-readme-stats.vercel.app/api?username=Neonin&sshow_icons=true&theme=gotham&count_private=true">
+<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Neonin&layout=compact&theme=monokai&count_private=true">
 </p>
